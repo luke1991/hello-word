@@ -1,2 +1,4 @@
 # hello-word
-just another repository
+
+Hi GitHub
+My name is luke, I am from China
